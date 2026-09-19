@@ -21,7 +21,7 @@ class ThreatCorrelator:
     to create consolidated Threat records instead of one-per-anomaly noise.
     """
 
-    def __init__(self, time_window_seconds: float = 300.0):
+    def __init__(self, time_window_seconds: float = 300.0):    
         self.time_window_seconds = time_window_seconds
 
     def correlate(self, anomalies: list[dict]) -> list[CorrelatedThreatGroup]:

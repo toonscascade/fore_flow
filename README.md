@@ -210,18 +210,6 @@ postgresql+asyncpg://postgres.yeypcjqozmdergeeigwu:<PASSWORD>@aws-0-ap-northeast
 
 > ⚠️ **Security Note**: Rotate these credentials before any production deployment. Never commit production secrets to source control.
 
-### Supabase MCP Configuration
-To connect via Supabase MCP (Model Context Protocol):
-```json
-{
-  "mcpServers": {
-    "supabase": {
-      "serverUrl": "https://mcp.supabase.com/mcp?project_ref=yeypcjqozmdergeeigwu&features=docs,account,database,debugging,development,functions,branching"
-    }
-  }
-}
-```
-
 ### Environment Keys
 ```env
 SUPABASE_URL=https://yeypcjqozmdergeeigwu.supabase.co
@@ -491,7 +479,7 @@ Set environment variables in the Vercel project dashboard — **never commit pro
 
 ## 👥 Team
 
-Built for **Smart India Hackathon (SIH)** by Team Forecast.
+Built for **Smart India Hackathon (SIH)** by Team Nirmantra.
 
 ## 📄 License
 
