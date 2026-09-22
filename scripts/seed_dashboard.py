@@ -67,7 +67,7 @@ async def seed():
                 "dst_ip": "10.24.4.0/24",
                 "mitre_technique_id": "T1021.002",
                 "mitre_tactic": "LATERAL_MOVEMENT",
-                "iocs": ["\\10.24.4.22\IPC$"],
+                "iocs": [r"\\10.24.4.22\IPC$"],
             },
             {
                 "title": "DNS Beaconing to Dynamic Domain",

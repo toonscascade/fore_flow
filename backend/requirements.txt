@@ -14,10 +14,10 @@ supabase==2.11.0
 
 # ML / Data
 scikit-learn==1.5.2
-torch==2.4.1
-numpy==1.26.4
+torch>=2.6.0
+numpy>=2.1.0
 pandas==2.2.3
-shap==0.46.0
+shap
 joblib==1.4.2
 
 # Network parsing

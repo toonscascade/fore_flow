@@ -1,6 +1,6 @@
-# CyberPulse Frontend
+# Foreflow Frontend
 
-Redesigned minimalist navy + colourful UI for the Network Threat Forecast platform.
+Redesigned minimalist navy + colourful UI for the Network Threat Foreflow platform.
 
 ## Run
 

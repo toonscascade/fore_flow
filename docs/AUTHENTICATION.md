@@ -1,4 +1,4 @@
-# Forecast Authentication & Authorization
+# Foreflow Authentication & Authorization
 
 ## Endpoints
 

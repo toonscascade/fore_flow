@@ -68,7 +68,7 @@ export default function Dashboard() {
         <div className="page-subtitle">Real-time network threat monitoring</div>
       </div>
 
-      {demoMode && <div className="card" style={{ marginBottom: 16 }}>Live backend is unavailable, so CyberPulse is showing its built-in operational demo dataset.</div>}
+      {demoMode && <div className="card" style={{ marginBottom: 16 }}>Live backend is unavailable, so Foreflow is showing its built-in operational demo dataset.</div>}
 
       <div className="grid grid-4" style={{ marginBottom: 20 }}>
         <StatCard title="Anomalies Detected" value={anomalousTotal} trend={`${anomalyTotal} flows analyzed`} trendDirection={anomalousTotal > 0 ? "up" : "down"} />

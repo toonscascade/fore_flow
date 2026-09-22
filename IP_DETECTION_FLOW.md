@@ -1,6 +1,6 @@
-# 🕵️‍♂️ Forecast — IP Threat Detection Flow
+# 🕵️‍♂️ Foreflow — IP Threat Detection Flow
 
-This document details the end-to-end technical flow of how an IP address (representing a network endpoint) is analyzed by the Forecast platform to detect anomalies and threats.
+This document details the end-to-end technical flow of how an IP address (representing a network endpoint) is analyzed by the Foreflow platform to detect anomalies and threats.
 
 ---
 
@@ -35,7 +35,7 @@ sequenceDiagram
 ## 🔄 Step-by-Step Process
 
 ### 1. User Input (The Frontend)
-- **Action**: An analyst uses the Forecast React dashboard to manually submit a network flow for analysis, or the automated `network_engine` feeds packet metadata into the system.
+- **Action**: An analyst uses the Foreflow React dashboard to manually submit a network flow for analysis, or the automated `network_engine` feeds packet metadata into the system.
 - **Data Provided**: The core identifiers are `src_ip` (Source IP) and `dst_ip` (Destination IP), along with a `feature_vector` representing the statistical properties of the network traffic between those IPs.
 - **Technology**: React, Vite, Axios.
 

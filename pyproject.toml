@@ -1,5 +1,5 @@
 [project]
-name = "forecast"
+name = "foreflow"
 version = "1.0.0"
 
 [tool.pytest.ini_options]

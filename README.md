@@ -1,8 +1,8 @@
-# 🛡️ Forecast — Cybersecurity Threat Intelligence & Forecasting Platform
+# 🛡️ Foreflow — Cybersecurity Threat Intelligence & Forecasting Platform
 
 > **AI-powered threat detection, blockchain-anchored evidence, and predictive security analytics — all in one platform.**
 
-Forecast is a full-stack cybersecurity forecasting and threat intelligence platform built for **Smart India Hackathon (SIH)**. It combines real-time anomaly detection, deep learning forecasting, tamper-proof blockchain evidence anchoring, and a modern analyst dashboard to transform raw security data into actionable, court-admissible intelligence.
+Foreflow is a full-stack cybersecurity forecasting and threat intelligence platform built for **Smart India Hackathon (SIH)**. It combines real-time anomaly detection, deep learning forecasting, tamper-proof blockchain evidence anchoring, and a modern analyst dashboard to transform raw security data into actionable, court-admissible intelligence.
 
 ---
 
@@ -10,7 +10,7 @@ Forecast is a full-stack cybersecurity forecasting and threat intelligence platf
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│                        Forecast Platform                              │
+│                        Foreflow Platform                              │
 ├────────────────────────────────────────────────────────────────────────┤
 │                                                                        │
 │   ┌──────────────┐     ┌──────────────────┐     ┌──────────────────┐  │

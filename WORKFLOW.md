@@ -1,6 +1,6 @@
-# 🔄 Forecast — System & Operational Workflows
+# 🔄 Foreflow — System & Operational Workflows
 
-The Forecast platform is designed around a seamless pipeline that ingests raw network and threat data, processes it through advanced AI models, anchors findings immutably on the blockchain, and presents actionable intelligence to security analysts.
+The Foreflow platform is designed around a seamless pipeline that ingests raw network and threat data, processes it through advanced AI models, anchors findings immutably on the blockchain, and presents actionable intelligence to security analysts.
 
 Below are the core operational workflows of the platform.
 

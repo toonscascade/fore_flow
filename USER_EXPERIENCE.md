@@ -1,6 +1,6 @@
-# 🎨 Forecast — User Experience (UX) & Interface Guide
+# 🎨 Foreflow — User Experience (UX) & Interface Guide
 
-The Forecast platform is designed with a **SOC (Security Operations Center) Analyst-first** philosophy. The user experience prioritizes rapid triage, clear data visualization, and actionable insights over overwhelming raw data presentation.
+The Foreflow platform is designed with a **SOC (Security Operations Center) Analyst-first** philosophy. The user experience prioritizes rapid triage, clear data visualization, and actionable insights over overwhelming raw data presentation.
 
 ---
 
